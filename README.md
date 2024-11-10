@@ -1,2 +1,3 @@
 # arvid-home
-ARVID home page
+Shiny app containing the home page for ARVID.
+arvid.stanford.edu
