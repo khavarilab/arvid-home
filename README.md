@@ -1,3 +1,4 @@
 # arvid-home
-Shiny app containing the home page for ARVID.   
-https://arvid.stanford.edu
+Home page for the Atlas of Regulatory Variants in Disease (ARVID).   
+https://aemvars.stanford.edu  
+Implemented as an R Shiny app.
