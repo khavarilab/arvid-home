@@ -46,7 +46,7 @@ dash <-  dashboardPage(
             tags$br(),
             tags$img(src = 'proj_cancer.png', width = '320px', height = '200px'),
             tags$br(),
-            tags$a(href = 'https://arvid-data.shinyapps.io/cancer/', 
+            tags$a(href = 'https://arvid-data.shinyapps.io/cancers/', 
                    tags$p(style = 'text-align:center;font-size:16px', 'CRE variants in Common Human Cancers')),
             tags$br(),
             tags$br(),
