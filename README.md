@@ -6,7 +6,7 @@ Funded by NHGRI U24 HG010856
 Developed at the [Khavari Lab](https://khavarilab.stanford.edu)  
    
    
-**Implemented as R Shiny apps**  
+**Resources implemented as R Shiny apps**  
 [ARVID-Skin](https://github.com/khavarilab/arvid-skin)  
 [ARVID-Cancers](https://github.com/khavarilab/arvid-cancers)  
 [ARVID-Neuropsychiatry](https://github.com/khavarilab/arvid-neuro)  
