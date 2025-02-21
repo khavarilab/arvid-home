@@ -45,12 +45,12 @@ dash <-  dashboardPage(
             style = 'width:800px',
             h4('ARVID Publications'),
             tags$br(),
+            tags$a(href = 'https://www.nature.com/articles/s41588-024-02070-5', 
+                   tags$p(style = 'font-size:16px', '2025 - Functional analysis of cancer-associated germline risk variants. Nature Genetics.')),
+            tags$br(),
+            tags$br(),
             tags$a(href = 'https://www.biorxiv.org/content/10.1101/2024.11.07.622542', 
                    tags$p(style = 'font-size:16px', '2024 - Disease-Linked Regulatory DNA Variants and Homeostatic Transcription Factors in Epidermis. bioRxiv.')),
-            tags$br(),
-            tags$br(),
-            tags$a(href = 'https://arvid.stanford.edu/cancers', 
-                   tags$p(style = 'font-size:16px', '2024 -  Inherited functional regulatory risk variants for prevalent human cancers. Accepted in Nature Genetics.')),
             tags$br(),
             tags$br(),
             tags$a(href = 'https://www.nature.com/articles/s41588-023-01533-5', 
@@ -113,7 +113,7 @@ dash <-  dashboardPage(
             tags$p(''),
             tags$br(),
             tags$h4('Contact Us'),
-            tags$p('For questions or feedback please email: feedback <underscore> arvid <at> stanford <dot> edu'),
+            tags$p('For questions or feedback please email: suhas <dot> srinivasan <at> stanford <dot> edu'),
             tags$a(href = 'https://khavarilab.stanford.edu/', 'Developed at the Khavari Lab', target = '_blank'),
             tags$p(''),
             tags$br(),
@@ -179,6 +179,5 @@ dash <-  dashboardPage(
       )
     )
 )
-
 
 
